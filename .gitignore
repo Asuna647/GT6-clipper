@@ -1,0 +1,14 @@
+﻿venv/
+__pycache__/
+*.pyc
+temp_chunks/*
+final_clips/*
+raw_vods/*
+logs/*
+transcripts/*
+!temp_chunks/.gitkeep
+!final_clips/.gitkeep
+!raw_vods/.gitkeep
+!logs/.gitkeep
+!transcripts/.gitkeep
+.env

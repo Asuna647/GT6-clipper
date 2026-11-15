@@ -1,0 +1,10 @@
+﻿torch
+torchvision
+torchaudio
+faster-whisper
+yt-dlp
+numpy
+opencv-python-headless
+chat-downloader
+streamlit
+pandas
